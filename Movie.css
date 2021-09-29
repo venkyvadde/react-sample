@@ -1,0 +1,14 @@
+.movie-card {
+    width: 1000px;
+    height: 600px;
+    padding: 10px;
+   border-radius: 10px;
+    box-shadow: 2px 2px 2px 2px darkgray;
+    display: flex;
+}
+
+img {
+    max-width: 80%;
+    height: 80%;
+}
+
